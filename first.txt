@@ -1,1 +1,2 @@
-hi my name is pranita .its my first commit.now i m changing this file
+hi my name is pranita .its my first commit.now i m changing this file .
+lets do some changes 
